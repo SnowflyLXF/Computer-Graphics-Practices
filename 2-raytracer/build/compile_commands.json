@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/Users/lixuefei/Desktop/raytracing/raytracer/build",
+  "command": "/usr/local/Cellar/llvm/7.0.0/bin/clang++   -I/usr/local/Cellar/llvm/7.0.0/include -I/Users/lixuefei/Desktop/raytracing/raytracer/dependency   -fopenmp=libomp -Wno-unused-command-line-argument -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -std=gnu++11 -o CMakeFiles/raytracer.dir/dependency/image.cpp.o -c /Users/lixuefei/Desktop/raytracing/raytracer/dependency/image.cpp",
+  "file": "/Users/lixuefei/Desktop/raytracing/raytracer/dependency/image.cpp"
+},
+{
+  "directory": "/Users/lixuefei/Desktop/raytracing/raytracer/build",
+  "command": "/usr/local/Cellar/llvm/7.0.0/bin/clang++   -I/usr/local/Cellar/llvm/7.0.0/include -I/Users/lixuefei/Desktop/raytracing/raytracer/dependency   -fopenmp=libomp -Wno-unused-command-line-argument -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -std=gnu++11 -o CMakeFiles/raytracer.dir/dependency/pixel.cpp.o -c /Users/lixuefei/Desktop/raytracing/raytracer/dependency/pixel.cpp",
+  "file": "/Users/lixuefei/Desktop/raytracing/raytracer/dependency/pixel.cpp"
+},
+{
+  "directory": "/Users/lixuefei/Desktop/raytracing/raytracer/build",
+  "command": "/usr/local/Cellar/llvm/7.0.0/bin/clang++   -I/usr/local/Cellar/llvm/7.0.0/include -I/Users/lixuefei/Desktop/raytracing/raytracer/dependency   -fopenmp=libomp -Wno-unused-command-line-argument -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -std=gnu++11 -o CMakeFiles/raytracer.dir/main.cpp.o -c /Users/lixuefei/Desktop/raytracing/raytracer/main.cpp",
+  "file": "/Users/lixuefei/Desktop/raytracing/raytracer/main.cpp"
+}
+]

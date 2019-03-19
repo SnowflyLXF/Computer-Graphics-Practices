@@ -1,0 +1,6 @@
+/Users/lixuefei/Desktop/CSCI5607/3Dgame/build/CMakeFiles/rebuild_cache.dir
+/Users/lixuefei/Desktop/CSCI5607/3Dgame/build/CMakeFiles/edit_cache.dir
+/Users/lixuefei/Desktop/CSCI5607/3Dgame/build/CMakeFiles/Maze.dir
+/Users/lixuefei/Desktop/CSCI5607/3Dgame/build/glad/CMakeFiles/rebuild_cache.dir
+/Users/lixuefei/Desktop/CSCI5607/3Dgame/build/glad/CMakeFiles/edit_cache.dir
+/Users/lixuefei/Desktop/CSCI5607/3Dgame/build/glad/CMakeFiles/glad.dir

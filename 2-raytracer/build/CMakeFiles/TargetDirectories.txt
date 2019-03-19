@@ -1,0 +1,3 @@
+/Users/lixuefei/Desktop/raytracing/raytracer/build/CMakeFiles/rebuild_cache.dir
+/Users/lixuefei/Desktop/raytracing/raytracer/build/CMakeFiles/edit_cache.dir
+/Users/lixuefei/Desktop/raytracing/raytracer/build/CMakeFiles/raytracer.dir

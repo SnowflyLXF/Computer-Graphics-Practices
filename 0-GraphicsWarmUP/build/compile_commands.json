@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/lixuefei/Desktop/starter/build",
+  "command": "/usr/bin/clang++   -I/Library/Frameworks/SDL2.framework/Headers -I/Users/lixuefei/Desktop/starter/./glad   -std=c++11 -g   -o CMakeFiles/Square.dir/Square.cpp.o -c /Users/lixuefei/Desktop/starter/Square.cpp",
+  "file": "/Users/lixuefei/Desktop/starter/Square.cpp"
+},
+{
+  "directory": "/Users/lixuefei/Desktop/starter/build/glad",
+  "command": "/usr/bin/clang  -I/Library/Frameworks/SDL2.framework/Headers  -g   -o CMakeFiles/glad.dir/glad.c.o   -c /Users/lixuefei/Desktop/starter/glad/glad.c",
+  "file": "/Users/lixuefei/Desktop/starter/glad/glad.c"
+}
+]

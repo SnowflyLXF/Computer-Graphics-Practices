@@ -1,0 +1,82 @@
+[
+{
+  "directory": "/Users/lixuefei/Desktop/CSCI5607/3Dgame/build",
+  "command": "/usr/bin/clang++   -I/Library/Frameworks/SDL2.framework/Headers -I/Users/lixuefei/Desktop/CSCI5607/3Dgame/./glad   -std=c++11 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -F/Library/Frameworks  -o CMakeFiles/Maze.dir/Camera.cpp.o -c /Users/lixuefei/Desktop/CSCI5607/3Dgame/Camera.cpp",
+  "file": "/Users/lixuefei/Desktop/CSCI5607/3Dgame/Camera.cpp"
+},
+{
+  "directory": "/Users/lixuefei/Desktop/CSCI5607/3Dgame/build",
+  "command": "/usr/bin/clang++   -I/Library/Frameworks/SDL2.framework/Headers -I/Users/lixuefei/Desktop/CSCI5607/3Dgame/./glad   -std=c++11 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -F/Library/Frameworks  -o CMakeFiles/Maze.dir/Character.cpp.o -c /Users/lixuefei/Desktop/CSCI5607/3Dgame/Character.cpp",
+  "file": "/Users/lixuefei/Desktop/CSCI5607/3Dgame/Character.cpp"
+},
+{
+  "directory": "/Users/lixuefei/Desktop/CSCI5607/3Dgame/build",
+  "command": "/usr/bin/clang++   -I/Library/Frameworks/SDL2.framework/Headers -I/Users/lixuefei/Desktop/CSCI5607/3Dgame/./glad   -std=c++11 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -F/Library/Frameworks  -o CMakeFiles/Maze.dir/Coord2D.cpp.o -c /Users/lixuefei/Desktop/CSCI5607/3Dgame/Coord2D.cpp",
+  "file": "/Users/lixuefei/Desktop/CSCI5607/3Dgame/Coord2D.cpp"
+},
+{
+  "directory": "/Users/lixuefei/Desktop/CSCI5607/3Dgame/build",
+  "command": "/usr/bin/clang++   -I/Library/Frameworks/SDL2.framework/Headers -I/Users/lixuefei/Desktop/CSCI5607/3Dgame/./glad   -std=c++11 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -F/Library/Frameworks  -o CMakeFiles/Maze.dir/Material.cpp.o -c /Users/lixuefei/Desktop/CSCI5607/3Dgame/Material.cpp",
+  "file": "/Users/lixuefei/Desktop/CSCI5607/3Dgame/Material.cpp"
+},
+{
+  "directory": "/Users/lixuefei/Desktop/CSCI5607/3Dgame/build",
+  "command": "/usr/bin/clang++   -I/Library/Frameworks/SDL2.framework/Headers -I/Users/lixuefei/Desktop/CSCI5607/3Dgame/./glad   -std=c++11 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -F/Library/Frameworks  -o CMakeFiles/Maze.dir/Util.cpp.o -c /Users/lixuefei/Desktop/CSCI5607/3Dgame/Util.cpp",
+  "file": "/Users/lixuefei/Desktop/CSCI5607/3Dgame/Util.cpp"
+},
+{
+  "directory": "/Users/lixuefei/Desktop/CSCI5607/3Dgame/build",
+  "command": "/usr/bin/clang++   -I/Library/Frameworks/SDL2.framework/Headers -I/Users/lixuefei/Desktop/CSCI5607/3Dgame/./glad   -std=c++11 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -F/Library/Frameworks  -o CMakeFiles/Maze.dir/Vec3D.cpp.o -c /Users/lixuefei/Desktop/CSCI5607/3Dgame/Vec3D.cpp",
+  "file": "/Users/lixuefei/Desktop/CSCI5607/3Dgame/Vec3D.cpp"
+},
+{
+  "directory": "/Users/lixuefei/Desktop/CSCI5607/3Dgame/build",
+  "command": "/usr/bin/clang++   -I/Library/Frameworks/SDL2.framework/Headers -I/Users/lixuefei/Desktop/CSCI5607/3Dgame/./glad   -std=c++11 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -F/Library/Frameworks  -o CMakeFiles/Maze.dir/WO_Door.cpp.o -c /Users/lixuefei/Desktop/CSCI5607/3Dgame/WO_Door.cpp",
+  "file": "/Users/lixuefei/Desktop/CSCI5607/3Dgame/WO_Door.cpp"
+},
+{
+  "directory": "/Users/lixuefei/Desktop/CSCI5607/3Dgame/build",
+  "command": "/usr/bin/clang++   -I/Library/Frameworks/SDL2.framework/Headers -I/Users/lixuefei/Desktop/CSCI5607/3Dgame/./glad   -std=c++11 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -F/Library/Frameworks  -o CMakeFiles/Maze.dir/WO_Enemy.cpp.o -c /Users/lixuefei/Desktop/CSCI5607/3Dgame/WO_Enemy.cpp",
+  "file": "/Users/lixuefei/Desktop/CSCI5607/3Dgame/WO_Enemy.cpp"
+},
+{
+  "directory": "/Users/lixuefei/Desktop/CSCI5607/3Dgame/build",
+  "command": "/usr/bin/clang++   -I/Library/Frameworks/SDL2.framework/Headers -I/Users/lixuefei/Desktop/CSCI5607/3Dgame/./glad   -std=c++11 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -F/Library/Frameworks  -o CMakeFiles/Maze.dir/WO_Goal.cpp.o -c /Users/lixuefei/Desktop/CSCI5607/3Dgame/WO_Goal.cpp",
+  "file": "/Users/lixuefei/Desktop/CSCI5607/3Dgame/WO_Goal.cpp"
+},
+{
+  "directory": "/Users/lixuefei/Desktop/CSCI5607/3Dgame/build",
+  "command": "/usr/bin/clang++   -I/Library/Frameworks/SDL2.framework/Headers -I/Users/lixuefei/Desktop/CSCI5607/3Dgame/./glad   -std=c++11 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -F/Library/Frameworks  -o CMakeFiles/Maze.dir/WO_Key.cpp.o -c /Users/lixuefei/Desktop/CSCI5607/3Dgame/WO_Key.cpp",
+  "file": "/Users/lixuefei/Desktop/CSCI5607/3Dgame/WO_Key.cpp"
+},
+{
+  "directory": "/Users/lixuefei/Desktop/CSCI5607/3Dgame/build",
+  "command": "/usr/bin/clang++   -I/Library/Frameworks/SDL2.framework/Headers -I/Users/lixuefei/Desktop/CSCI5607/3Dgame/./glad   -std=c++11 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -F/Library/Frameworks  -o CMakeFiles/Maze.dir/WO_Start.cpp.o -c /Users/lixuefei/Desktop/CSCI5607/3Dgame/WO_Start.cpp",
+  "file": "/Users/lixuefei/Desktop/CSCI5607/3Dgame/WO_Start.cpp"
+},
+{
+  "directory": "/Users/lixuefei/Desktop/CSCI5607/3Dgame/build",
+  "command": "/usr/bin/clang++   -I/Library/Frameworks/SDL2.framework/Headers -I/Users/lixuefei/Desktop/CSCI5607/3Dgame/./glad   -std=c++11 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -F/Library/Frameworks  -o CMakeFiles/Maze.dir/WO_Wall.cpp.o -c /Users/lixuefei/Desktop/CSCI5607/3Dgame/WO_Wall.cpp",
+  "file": "/Users/lixuefei/Desktop/CSCI5607/3Dgame/WO_Wall.cpp"
+},
+{
+  "directory": "/Users/lixuefei/Desktop/CSCI5607/3Dgame/build",
+  "command": "/usr/bin/clang++   -I/Library/Frameworks/SDL2.framework/Headers -I/Users/lixuefei/Desktop/CSCI5607/3Dgame/./glad   -std=c++11 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -F/Library/Frameworks  -o CMakeFiles/Maze.dir/World.cpp.o -c /Users/lixuefei/Desktop/CSCI5607/3Dgame/World.cpp",
+  "file": "/Users/lixuefei/Desktop/CSCI5607/3Dgame/World.cpp"
+},
+{
+  "directory": "/Users/lixuefei/Desktop/CSCI5607/3Dgame/build",
+  "command": "/usr/bin/clang++   -I/Library/Frameworks/SDL2.framework/Headers -I/Users/lixuefei/Desktop/CSCI5607/3Dgame/./glad   -std=c++11 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -F/Library/Frameworks  -o CMakeFiles/Maze.dir/WorldObject.cpp.o -c /Users/lixuefei/Desktop/CSCI5607/3Dgame/WorldObject.cpp",
+  "file": "/Users/lixuefei/Desktop/CSCI5607/3Dgame/WorldObject.cpp"
+},
+{
+  "directory": "/Users/lixuefei/Desktop/CSCI5607/3Dgame/build",
+  "command": "/usr/bin/clang++   -I/Library/Frameworks/SDL2.framework/Headers -I/Users/lixuefei/Desktop/CSCI5607/3Dgame/./glad   -std=c++11 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -F/Library/Frameworks  -o CMakeFiles/Maze.dir/main.cpp.o -c /Users/lixuefei/Desktop/CSCI5607/3Dgame/main.cpp",
+  "file": "/Users/lixuefei/Desktop/CSCI5607/3Dgame/main.cpp"
+},
+{
+  "directory": "/Users/lixuefei/Desktop/CSCI5607/3Dgame/build/glad",
+  "command": "/usr/bin/clang  -I/Library/Frameworks/SDL2.framework/Headers  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -o CMakeFiles/glad.dir/glad.c.o   -c /Users/lixuefei/Desktop/CSCI5607/3Dgame/glad/glad.c",
+  "file": "/Users/lixuefei/Desktop/CSCI5607/3Dgame/glad/glad.c"
+}
+]

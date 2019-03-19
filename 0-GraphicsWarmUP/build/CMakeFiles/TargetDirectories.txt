@@ -1,0 +1,6 @@
+/Users/lixuefei/Desktop/starter/build/CMakeFiles/rebuild_cache.dir
+/Users/lixuefei/Desktop/starter/build/CMakeFiles/edit_cache.dir
+/Users/lixuefei/Desktop/starter/build/CMakeFiles/Square.dir
+/Users/lixuefei/Desktop/starter/build/glad/CMakeFiles/rebuild_cache.dir
+/Users/lixuefei/Desktop/starter/build/glad/CMakeFiles/edit_cache.dir
+/Users/lixuefei/Desktop/starter/build/glad/CMakeFiles/glad.dir
